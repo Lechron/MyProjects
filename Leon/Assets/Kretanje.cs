@@ -14,7 +14,7 @@ public class Kretanje : MonoBehaviour
         
         if(ubrzaj == true)
         {
-            speed = 30;
+            speed = 40;
             timerBrzine -= Time.deltaTime;
             if(timerBrzine <= 0)
             {

@@ -236,7 +236,7 @@ MonoBehaviour:
   kugla: {fileID: 63975326502278264, guid: e65804cc72dcc2546ae3548536c386f0, type: 3}
   zlaKugla: {fileID: 2006107248022143604, guid: c84083b6a3342ea46a83d206d35ab962,
     type: 3}
-  diamond: {fileID: 7175275430847939587, guid: 1718cceaf3430a8468d76cb097209471, type: 3}
+  diamond: {fileID: 1678680766853324470, guid: 9a60bed1871b8d74bb0736fa3da0d52f, type: 3}
   spawnTime: 1
 --- !u!4 &174566980
 Transform:
